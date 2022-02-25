@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Converter Demo</string>
+    <string name="data_waiting_message">Waiting for data...</string>
+</resources>
