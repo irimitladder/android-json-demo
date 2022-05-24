@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Currency Converter Demo"
+rootProject.name = "GeoJSON Viewer"
 include ':app'

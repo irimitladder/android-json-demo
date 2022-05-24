@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">Currency Converter Demo</string>
-    <string name="data_waiting_message">Waiting for data...</string>
+    <string name="app_name">GeoJSON Viewer</string>
 </resources>
